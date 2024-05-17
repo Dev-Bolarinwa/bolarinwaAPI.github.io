@@ -1,0 +1,199 @@
+body {
+  background-color: linear-gradient(180deg, #f7faf9 27.64%, #ffffff 118.16%);
+}
+
+.circle {
+  background-color: #3ab895;
+  height: 30px;
+  width: 30px;
+  border-radius: 50px;
+  margin-top: 30px;
+  margin-left: 50px;
+  display: flex;
+}
+
+.product {
+  display: flex;
+  position: absolute;
+  top: 20px;
+  left: 0px;
+  font-size: 15px;
+  margin-left: 200px;
+}
+
+.coverage {
+  display: flex;
+  position: absolute;
+  top: 20px;
+  left: 0px;
+  font-size: 15px;
+  margin-left: 300px;
+}
+
+.dev {
+  display: flex;
+  position: absolute;
+  top: 20px;
+  left: 0px;
+  font-size: 15px;
+  margin-left: 400px;
+}
+
+.pri {
+  display: flex;
+  position: absolute;
+  top: 20px;
+  left: 0px;
+  font-size: 15px;
+  margin-left: 1100px;
+}
+
+.com {
+  display: flex;
+  position: absolute;
+  top: 20px;
+  left: 0px;
+  font-size: 15px;
+  margin-left: 1200px;
+}
+
+.Dash {
+  display: flex;
+  position: absolute;
+  margin-top: -45px;
+  left: 0px;
+  font-size: 18px;
+  margin-left: 1330px;
+  background-color: #3ab895;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border-radius: 5px;
+  border: none;
+  color: white;
+}
+
+.TTT {
+  margin-top: 150px;
+  margin-left: 46px;
+  font-size: 45px;
+}
+
+b {
+  color: #3ab895;
+}
+
+.Okra {
+  margin-left: 46px;
+  font-size: 19.5px;
+  margin-top: -15px;
+  color: #445B54;
+}
+
+
+.rrr {
+  float: left;
+  height: 635px;
+  margin-top: -450px;
+  margin-left: 663px;
+  max-width: 100%;
+  max-height: auto;
+}
+
+.search {
+  margin-left: 46px;
+}
+
+.srch {
+  font-family: "Times New Roman";
+  width: 410px;
+  height: 45px;
+  border-radius: 4px;
+  background: transparent;
+  border: 0.5px solid #83AA9D;
+  color: white;
+  padding: 8px 8px 8px 10px;
+  border: 0.5px 0px 0px 0px;
+  gap: 10px;
+}
+.btn {
+  width: 192px;
+  height: 48px;
+  background: #3ab895;
+  border: none;
+  margin-top: 25px;
+  color: #fff;
+  font-size: 15px;
+  border-radius: 4px;
+  padding: 14px, 24px, 14px, 24px;
+  margin-left: -203px;
+}
+
+.team {
+    margin-top: 150px;
+    margin-left: 46px;
+    font-size: 45px;
+    color: #171717
+}
+
+.Publishing  {
+  margin-left: 46px;
+  font-size: 19.5px;
+  margin-top: -15px;
+}
+
+.artist {
+  width: 268.38px;
+  height: 160.27px;
+  gap: 0px;
+  border-radius: 5.09px 0px 0px 0px;
+  opacity: 0px;
+  margin-left: 70px;
+  margin-top: 50px;
+  max-width: 100%;
+  max-height: auto;
+}
+
+h4, p {
+  margin-left: 70px;
+}
+
+
+.views {
+  width: Hug (268.38px)px;
+  height: Hug (121.77px)px;
+  gap: 15.26px;
+  opacity: 0px;
+  color: #B3B3B3;
+  margin-left: 70px;
+}
+
+
+.two {
+  float: left;
+  margin-left: 355px;
+  margin-top: -362px;
+  max-width: 100%;
+  max-height: auto;
+}
+
+.three {
+  width: 268.38px;
+  height: 160.27px;
+  gap: 0px;
+  border-radius: 5.09px 0px 0px 0px;
+  opacity: 0px;
+  margin-left: 700px;
+  margin-top: -365px;
+}
+
+.four{
+  width: 268.38px;
+  height: 160.27px;
+  gap: 0px;
+  border-radius: 5.09px 0px 0px 0px;
+  opacity: 0px;
+  margin-left: 1050px;
+  margin-top: -160px;
+}
